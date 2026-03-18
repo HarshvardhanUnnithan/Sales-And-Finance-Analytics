@@ -12,6 +12,7 @@
 ## 🏢 About AtliQ Hardware
 
 AtliQ Hardware is a global manufacturer and distributor of computer hardware, peripherals, and accessories.
+
 They sell through:
 
 - Retailers like Croma and Best Buy
