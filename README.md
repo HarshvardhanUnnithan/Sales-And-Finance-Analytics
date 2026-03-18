@@ -9,11 +9,16 @@
 5. [Finance Analysis](#finance-analysis)
 6. [Finance Analysis Reports](#finance-analysis-reports)
 
-## Introduction about Atliq
+## 🏢 About AtliQ Hardware
 
-- Atliq Hardware is a leading company known for its extensive range of high-quality hardware products, from personal computers and mice to printers and cutting-edge peripheral devices. With a product lineup that caters to a wide and diverse customer base, Atliq has established itself as a key player in the hardware industry.
+AtliQ Hardware is a global manufacturer and distributor of computer hardware, peripherals, and accessories.
+They sell through:
 
-- What sets Atliq apart is its dual role as both a manufacturer and a seller. To ensure these innovative products reach customers worldwide, Atliq partners with top-tier intermediaries. These include physical retail giants like Croma and Best Buy, as well as popular online platforms such as Flipkart and Amazon. These strategic partnerships bridge the gap between Atliq's cutting-edge products and the everyday consumer, making advanced technology accessible and available to all.
+- Retailers like Croma and Best Buy
+
+- Online platforms like Amazon, Flipkart, and AtliQ e‑Store
+
+Their diverse product portfolio and global presence make analytics essential for strategic planning.
 
 
 ## Problem Statement
