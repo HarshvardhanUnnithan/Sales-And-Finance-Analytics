@@ -2,7 +2,7 @@
 
 ## Table of Contents
 
-1. [Introduction about Atliq](#introduction-about-atliq)
+1. [Introduction about Atliq](#🏢-About-AtliQ-Hardware)
 2. [Problem Statement](#problem-statement)
 3. [Sales Analysis](#sales-analysis)
 4. [Sales Analysis Reports](#sales-analysis-reports)
