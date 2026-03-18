@@ -2,8 +2,6 @@
   <img src="https://raw.githubusercontent.com/HarshvardhanUnnithan/sales-finance-analysis-excel/main/banner.png" alt="Sales & Finance Analytics Banner" width="100%">
 </p>
 
-# Sales-and-Finance-Analytics-
-
 ## Table of Contents
 
 1. [Introduction about Atliq](#about-atliQ-hardware)
