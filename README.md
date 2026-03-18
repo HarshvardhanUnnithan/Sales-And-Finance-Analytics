@@ -21,7 +21,7 @@ They sell through:
 Their diverse product portfolio and global presence make analytics essential for strategic planning.
 
 
-## Problem Statement
+## 🎯 Problem Statement
 
 To develop an interactive Business Intelligence Sales and Finance Analytics Report, with the objective of uncovering actionable insights and supporting data-driven decision-making for crafting strategic initiatives at Atliq Hardwares.
 
