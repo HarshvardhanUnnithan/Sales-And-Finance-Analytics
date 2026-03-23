@@ -14,11 +14,11 @@
 
 ## ❓ Business Problem
 
-AtliQ Hardware is a global manufacturer and distributor of computer hardware, peripherals, and accessories — selling through retail chains like Croma and Best Buy, and online platforms like Amazon, Flipkart, and its own AtliQ e-Store.
+AtliQ Hardware is a global manufacturer and distributor of computer hardware, peripherals, and accessories - selling through retail chains like Croma and Best Buy, and online platforms like Amazon, Flipkart, and its own AtliQ e-Store.
 
 Despite rapid revenue growth, the business lacked a consolidated view of:
 
-- **Which customers, products, and markets were actually driving growth** — and which were underperforming
+- **Which customers, products, and markets were actually driving growth** - and which were underperforming
 - **How actual sales compared to targets** across geographies
 - **Whether profitability was keeping pace** with the revenue surge
 - **Where margins were being eroded** and which regions posed the highest financial risk
@@ -65,10 +65,10 @@ Built an end-to-end Excel BI report covering both Sales and Finance dimensions, 
 
 ### Finance
 
-- **Gross Margin % compressed steadily**: 41.43% (2019) → 37.28% (2020) → 36.43% (2021) — signalling pricing pressure or cost inflation at scale
+- **Gross Margin % compressed steadily**: 41.43% (2019) → 37.28% (2020) → 36.43% (2021) -signalling pricing pressure or cost inflation at scale
 - **Highest-margin markets**: New Zealand (48.2%), Japan (46.5%), UK (45.1%), France (43.2%)
-- **Lowest-margin markets**: Germany (26.2%), Norway (29.5%), Austria & Italy (30.1%) — flagged for strategic review
-- **March 2020 revenue collapsed to $2.1M** vs. a normal monthly run-rate of $15–20M, consistent with COVID-19 disruption — followed by a strong recovery
+- **Lowest-margin markets**: Germany (26.2%), Norway (29.5%), Austria & Italy (30.1%) - flagged for strategic review
+- **March 2020 revenue collapsed to $2.1M** vs. a normal monthly run-rate of $15–20M, consistent with COVID-19 disruption - followed by a strong recovery
 - **Q2 (Oct–Dec) is the strongest quarter** across all years, indicating a consistent seasonal demand cycle
 
 ---
@@ -77,10 +77,10 @@ Built an end-to-end Excel BI report covering both Sales and Finance dimensions, 
 
 This report directly enables AtliQ Hardware's leadership to:
 
-1. **Redirect sales focus** — Reallocate resources toward high-performing customers (Amazon, AtliQ Exclusive) and high-growth markets, while closing target gaps in USA and Canada
-2. **Protect margins proactively** — Identify low-GM% markets like Germany and Norway for pricing renegotiation or cost reduction before further erosion
-3. **Validate the product launch strategy** — 16 new SKUs in 2021 collectively proved market-ready; top 3 alone generated ~$62M
-4. **Plan for seasonality** — Q2 concentration patterns allow better inventory and supply chain pre-positioning
-5. **Build reliable annual budgets** — Clean P&L comparisons (annual, monthly, and by market) provide the historical baseline needed for accurate forecasting
+1. **Redirect sales focus** - Reallocate resources toward high-performing customers (Amazon, AtliQ Exclusive) and high-growth markets, while closing target gaps in USA and Canada
+2. **Protect margins proactively** - Identify low-GM% markets like Germany and Norway for pricing renegotiation or cost reduction before further erosion
+3. **Validate the product launch strategy** - 16 new SKUs in 2021 collectively proved market-ready; top 3 alone generated ~$62M
+4. **Plan for seasonality** - Q2 concentration patterns allow better inventory and supply chain pre-positioning
+5. **Build reliable annual budgets** - Clean P&L comparisons (annual, monthly, and by market) provide the historical baseline needed for accurate forecasting
 
-> *This project demonstrates end-to-end BI delivery using Excel — from raw data modelling to executive-level insight generation — across sales performance, financial health, and strategic gap analysis.*
+
