@@ -36,7 +36,7 @@ Built an end-to-end Excel BI report covering both Sales and Finance dimensions, 
 |---|---|
 | Customer Net Sales Performance | Revenue breakdown per customer with YoY trends |
 | Market Performance vs Target | Variance analysis: actual sales vs. predefined targets |
-| Top 10 Products by Sales Growth | Products with the highest sales increase (2020 → 2021) |
+| Top 10 Products by Sales Growth | Products with the highest sales increase (2020 - 2021) |
 | Division-Wise Sales Performance | Revenue and growth across P&A, PC, and N&S divisions |
 | Top 5 & Bottom 5 Products by Volume | Demand signals from quantity-sold data |
 | New Product Introductions in 2021 | Market impact of 16 newly launched SKUs |
@@ -56,16 +56,16 @@ Built an end-to-end Excel BI report covering both Sales and Finance dimensions, 
 
 ### Sales
 
-- **Revenue scaled 584% in two years** — from $87.5M (2019) to $598.9M (2021), with the sharpest acceleration in 2021 (+304.5% YoY)
+- **Revenue scaled 584% in two years** - from $87.5M (2019) to $598.9M (2021), with the sharpest acceleration in 2021 (+304.5% YoY)
 - **Amazon led all customers** at $82.1M in 2021; AtliQ Exclusive and AtliQ e-Store followed at $61.1M and $53.0M respectively
 - **India dominated geographically** at $161.3M, followed by USA ($87.8M) and South Korea ($49.0M)
-- **2021 finished 9.2% below target** (-$54.9M gap) — with the largest shortfalls in USA (-$10.2M), India (-$9.6M), and Canada (-$5.1M)
-- **PC division grew 313.7%** — the fastest of all divisions; P&A remained the largest at $338.4M
+- **2021 finished 9.2% below target** (-$54.9M gap) - with the largest shortfalls in USA (-$10.2M), India (-$9.6M), and Canada (-$5.1M)
+- **PC division grew 313.7%** - the fastest of all divisions; P&A remained the largest at $338.4M
 - **16 new products launched in 2021**, with AQ Qwerty ($22M), AQ Trigger ($20.7M), and AQ Gen Y ($19.5M) leading the cohort
 
 ### Finance
 
-- **Gross Margin % compressed steadily**: 41.43% (2019) → 37.28% (2020) → 36.43% (2021) -signalling pricing pressure or cost inflation at scale
+- **Gross Margin % compressed steadily**: 41.43% (2019) -> 37.28% (2020) -> 36.43% (2021) -signalling pricing pressure or cost inflation at scale
 - **Highest-margin markets**: New Zealand (48.2%), Japan (46.5%), UK (45.1%), France (43.2%)
 - **Lowest-margin markets**: Germany (26.2%), Norway (29.5%), Austria & Italy (30.1%) - flagged for strategic review
 - **March 2020 revenue collapsed to $2.1M** vs. a normal monthly run-rate of $15–20M, consistent with COVID-19 disruption - followed by a strong recovery
