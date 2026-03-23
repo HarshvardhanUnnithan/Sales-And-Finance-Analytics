@@ -5,14 +5,14 @@
 
 ## Table of Contents
 
-1. [Problem](#-problem)
+1. [Problem](#-businessproblem)
 2. [Approach](#-approach)
 3. [Insights](#-insights)
 4. [Impact](#-impact)
 
 ---
 
-## ❓ Problem
+## ❓ Business Problem
 
 AtliQ Hardware is a global manufacturer and distributor of computer hardware, peripherals, and accessories — selling through retail chains like Croma and Best Buy, and online platforms like Amazon, Flipkart, and its own AtliQ e-Store.
 
