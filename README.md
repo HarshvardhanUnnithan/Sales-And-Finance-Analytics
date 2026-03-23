@@ -5,7 +5,7 @@
 
 ## Table of Contents
 
-1. [Problem](#business-problem)
+1. [Problem](#-business-problem)
 2. [Approach](#-approach)
 3. [Insights](#-insights)
 4. [Impact](#-impact)
