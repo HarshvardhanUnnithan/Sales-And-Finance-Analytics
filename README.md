@@ -1,4 +1,4 @@
-<h1 align="center">Sales & Finance Analytics — AtliQ Hardware</h1>
+<h1 align="center">Sales & Finance Analytics - AtliQ Hardware</h1>
 <p align="center">Excel-based Business Intelligence report uncovering sales drivers and financial health across global markets.</p>
 
 ---
