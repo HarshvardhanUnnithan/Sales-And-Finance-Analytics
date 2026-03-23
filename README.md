@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/HarshvardhanUnnithan/sales-finance-analysis-excel/main/banner.png" alt="Sales & Finance Analytics Banner" width="100%">
-</p>
-
 <h1 align="center">Sales & Finance Analytics — AtliQ Hardware</h1>
 <p align="center">Excel-based Business Intelligence report uncovering sales drivers and financial health across global markets.</p>
 
